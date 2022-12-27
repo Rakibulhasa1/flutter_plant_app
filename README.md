@@ -1,6 +1,5 @@
 # Plant App - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/LN668OAUrK4)
 
 **Packages we are using:**
 
@@ -10,4 +9,3 @@ Nice clean plant app UI using flutter, the Home page you will get search box tha
 
 ### Plant App Final UI
 
-![App UI](/plant.png)
